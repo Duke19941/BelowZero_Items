@@ -1,0 +1,10 @@
+name = "Below Zero Items";
+picture = "";
+logoSmall = "";
+logo = "";
+logoOver = "";
+tooltip = "Below Zero Hardcore++ Items";
+overview = "Worn winter survival items for BELOW ZERO.";
+action = "";
+author = "Below Zero";
+version = "0.1.0";

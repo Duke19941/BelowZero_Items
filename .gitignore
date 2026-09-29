@@ -1,0 +1,8 @@
+*.pbo
+*.biprivatekey
+*.bikey
+*.paa
+*.p3d
+*.lnk
+Thumbs.db
+.DS_Store
